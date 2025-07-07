@@ -8,7 +8,7 @@ Hi 👋, I'm Raghav Agrawal
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Java and Python projects, DSA practice & full-stack web apps
+- 🔭 I’m currently working on Java and Python projects, DSA practice & full-stack web apps
 
 - 🔭 I’m working on small web projects like Cryptocurreny & portfolio
 
